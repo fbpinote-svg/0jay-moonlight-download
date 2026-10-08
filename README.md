@@ -4,7 +4,7 @@
 
 ## ⬇️ ดาวน์โหลด
 
-**[0JAY-Moonlight-Setup-1.0.0.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.0/0JAY-Moonlight-Setup-1.0.0.exe)** (24 MB)
+**[0JAY-Moonlight-Setup-1.0.1.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.1/0JAY-Moonlight-Setup-1.0.1.exe)** (24 MB)
 
 เวอร์ชันทั้งหมด: [Releases](https://github.com/fbpinote-svg/0jay-moonlight-download/releases)
 
@@ -17,7 +17,7 @@
 
 ## ติดตั้ง
 
-1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.0.exe`
+1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.1.exe`
 2. ถ้า Windows ขึ้น "Windows protected your PC" ให้กด **More info → Run anyway**
 3. กด ถัดไป ตามขั้นตอน (ยอมรับสัญญาอนุญาต → เลือกที่ติดตั้ง → ติดตั้ง)
 4. ตัวติดตั้งจะ **ตรวจความพร้อมของเครื่อง** ให้: การ์ดจอ ลำโพง/หูฟัง ไมค์ สิทธิ์ใช้ไมค์ และการเชื่อมต่อร้าน
