@@ -4,7 +4,7 @@
 
 ## ⬇️ ดาวน์โหลด
 
-**[0JAY-Moonlight-Setup-1.0.1.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.1/0JAY-Moonlight-Setup-1.0.1.exe)** (24 MB)
+**[0JAY-Moonlight-Setup-1.0.2.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.2/0JAY-Moonlight-Setup-1.0.2.exe)** (24 MB)
 
 เวอร์ชันทั้งหมด: [Releases](https://github.com/fbpinote-svg/0jay-moonlight-download/releases)
 
@@ -17,7 +17,7 @@
 
 ## ติดตั้ง
 
-1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.1.exe`
+1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.2.exe`
 2. ถ้า Windows ขึ้น "Windows protected your PC" ให้กด **More info → Run anyway**
 3. กด ถัดไป ตามขั้นตอน (ยอมรับสัญญาอนุญาต → เลือกที่ติดตั้ง → ติดตั้ง)
 4. ตัวติดตั้งจะ **ตรวจความพร้อมของเครื่อง** ให้: การ์ดจอ ลำโพง/หูฟัง ไมค์ สิทธิ์ใช้ไมค์ และการเชื่อมต่อร้าน
@@ -29,8 +29,10 @@
 1. เข้าสู่ระบบด้วยบัญชีเดียวกับเว็บ (อีเมล/ชื่อผู้ใช้ หรือ Google / Discord)
 2. เช่าเครื่องที่เว็บ → เครื่องจะขึ้นในโปรแกรมเอง
 3. กดที่เครื่อง → โปรแกรมเชื่อมต่อให้เอง **ไม่ต้องใส่ PIN** → เลือก Desktop แล้วเล่นได้เลย
-4. อยากใช้ไมค์บนเครื่องที่เช่า: กดรูปเฟือง (ตั้งค่า) → การตั้งค่าเสียง → ช่อง "ไมค์" เลือกไมค์ของคุณ
-   แล้วบนเครื่องที่เช่า (ในเกม / Discord) เลือกไมค์ **"Parsec Virtual Audio"**
+4. อยากใช้ไมค์: กดรูปเฟือง (ตั้งค่า) → การตั้งค่าเสียง → **"ระบบไมค์"** เลือกได้ทีละหนึ่งระบบ แล้วเลือก "ไมค์ที่ใช้"
+   - **ระบบ 1 — ผ่านร้าน 0JAY:** บนเครื่องที่เช่า (ในเกม / Discord) เลือกไมค์ **"Parsec Virtual Audio"**
+   - **ระบบ 2 — ในสตรีม Moonlight (แบบ Moonlight V+):** บนเครื่องปลายทางเลือกไมค์ **"Steam Streaming Microphone"**
+     หรือ **"CABLE Output"** (ใช้ได้กับเครื่องที่ Sunshine รองรับไมค์)
 5. เลือกลำโพงหรือหูฟังที่จะฟังเสียงได้ที่ช่อง "ลำโพง / หูฟัง" ในหน้าเดียวกัน
 
 ออกจากการสตรีม: กด `Ctrl + Alt + Shift + Q`
