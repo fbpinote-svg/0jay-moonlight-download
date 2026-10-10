@@ -4,7 +4,7 @@
 
 ## ⬇️ ดาวน์โหลด
 
-**[0JAY-Moonlight-Setup-1.0.4.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.4/0JAY-Moonlight-Setup-1.0.4.exe)** (25 MB)
+**[0JAY-Moonlight-Setup-1.0.5.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.5/0JAY-Moonlight-Setup-1.0.5.exe)** (25 MB)
 
 เวอร์ชันทั้งหมด: [Releases](https://github.com/fbpinote-svg/0jay-moonlight-download/releases)
 
@@ -17,7 +17,7 @@
 
 ## ติดตั้ง
 
-1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.4.exe`
+1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.5.exe`
 2. ถ้า Windows ขึ้น "Windows protected your PC" ให้กด **More info → Run anyway**
 3. กด ถัดไป ตามขั้นตอน (ยอมรับสัญญาอนุญาต → เลือกที่ติดตั้ง → ติดตั้ง)
 4. ตัวติดตั้งจะ **ตรวจความพร้อมของเครื่อง** ให้: การ์ดจอ ลำโพง/หูฟัง ไมค์ สิทธิ์ใช้ไมค์ และการเชื่อมต่อร้าน
@@ -39,6 +39,8 @@
    - **ระบบ 2 — ในสตรีม Moonlight (แบบ Moonlight V+):** บนเครื่องปลายทางเลือกไมค์ **"Steam Streaming Microphone"**
      หรือ **"CABLE Output"** (ใช้ได้กับเครื่องที่ Sunshine รองรับไมค์)
 7. เลือกลำโพงหรือหูฟังที่จะฟังเสียงได้ที่ช่อง "ลำโพง / หูฟัง" ในหน้าเดียวกัน
+
+8. คัดลอก / วาง ระหว่างเครื่องนี้กับเครื่องที่เล่นได้เลย (ข้อความและรูป) — ปิดได้ที่ ตั้งค่า → Input Settings → "คัดลอก / วาง ข้อความและรูปกับเครื่องที่เล่น"
 
 ออกจากการสตรีม: กด `Ctrl + Alt + Shift + Q`
 
