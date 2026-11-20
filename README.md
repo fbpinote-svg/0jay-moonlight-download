@@ -4,7 +4,7 @@
 
 ## ⬇️ ดาวน์โหลด
 
-**[0JAY-Moonlight-Setup-1.0.5.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.5/0JAY-Moonlight-Setup-1.0.5.exe)** (25 MB)
+**[0JAY-Moonlight-Setup-1.0.6.exe](https://github.com/fbpinote-svg/0jay-moonlight-download/releases/download/v1.0.6/0JAY-Moonlight-Setup-1.0.6.exe)** (25 MB)
 
 เวอร์ชันทั้งหมด: [Releases](https://github.com/fbpinote-svg/0jay-moonlight-download/releases)
 
@@ -17,7 +17,7 @@
 
 ## ติดตั้ง
 
-1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.5.exe`
+1. ดับเบิลคลิก `0JAY-Moonlight-Setup-1.0.6.exe`
 2. ถ้า Windows ขึ้น "Windows protected your PC" ให้กด **More info → Run anyway**
 3. กด ถัดไป ตามขั้นตอน (ยอมรับสัญญาอนุญาต → เลือกที่ติดตั้ง → ติดตั้ง)
 4. ตัวติดตั้งจะ **ตรวจความพร้อมของเครื่อง** ให้: การ์ดจอ ลำโพง/หูฟัง ไมค์ สิทธิ์ใช้ไมค์ และการเชื่อมต่อร้าน
@@ -52,4 +52,4 @@ Windows → Settings → Apps → **0JAY Moonlight** → Uninstall
 
 0JAY Moonlight ดัดแปลงจาก [Moonlight](https://moonlight-stream.org) ซึ่งเป็นซอฟต์แวร์โอเพนซอร์สสัญญาอนุญาต
 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) โปรแกรมนี้จึงอยู่ภายใต้ GPLv3 เช่นกัน
-(สำเนาสัญญาอยู่ในโฟลเดอร์ที่ติดตั้ง `LICENSE.txt`) ขอซอร์สโค้ดได้ที่ร้าน 0JAY
+(สำเนาสัญญาอยู่ในโฟลเดอร์ที่ติดตั้ง `LICENSE.txt`) ซอร์สโค้ดของแต่ละเวอร์ชันอยู่ในหน้า [Releases](https://github.com/fbpinote-svg/0jay-moonlight-download/releases) (ตั้งแต่ 1.0.6) หรือขอได้ที่ร้าน 0JAY
